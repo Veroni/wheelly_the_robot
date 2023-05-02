@@ -1,2 +1,2 @@
-# controlling motors
-# for more info contact Veroni
+// Controlling motors
+// For more info contact Veroni
