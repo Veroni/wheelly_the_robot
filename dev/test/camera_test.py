@@ -27,7 +27,7 @@ def camera_test():
                     break
 
         finally:
-            video_capture.release()
+            video_cap.release()
             cv2.destroyAllWindows()
     else:
         print("Error: Unable to open camera")
