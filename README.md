@@ -1,5 +1,5 @@
 # wheelly2
-A cute table-robot that helps you to do stuff. It can be adjusted to anything.
+A cute table-robot that helps you with your daily routine tasks. It can be adjusted to anything.
 
 The task: Wheelly is folding clothes and placing them to the drawer.
 
