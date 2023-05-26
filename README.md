@@ -1,5 +1,7 @@
 # wheelly2
-A cute table-robot that helps to do stuff
+A cute table-robot that helps to do stuff. It can be adjusted to anything.
+The task: Wheelly is folding clothes and placing them to the drawer.
+Using ROS for object recognition and navigation.
 
 Find more videos about the robot on https://www.youtube.com/@veronikatheartist/videos
 
